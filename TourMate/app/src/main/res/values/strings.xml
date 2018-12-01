@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tour Mate</string>
+    <string name="click_here">Click Here</string>
+    <string name="not_registered_yet">Not registered yet?</string>
+    <string name="register_btn">Register</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="login_text">Login</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="e_mail_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="register_text">Register</string>
+</resources>
